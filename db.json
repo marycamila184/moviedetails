@@ -1,0 +1,67 @@
+{
+   "moviedetails":[
+      {
+         "id":85,
+         "titulo":"The Avengers",
+         "ano":2012,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/6/69/The_Avengers_Cartaz.jpg?20120429164328",
+		 "sinopse": "The Avengers (Os Vingadores) é um filme de super-herói estadunidense de 2012, baseado em Vingadores da Marvel Comics."
+      },
+      {
+         "id":14,
+         "titulo":"Avengers: Age of Ultron",
+         "ano":2015,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/2/22/OsVingadores2.jpg?20150224175213",
+		 "sinopse": "The Avengers (Os Vingadores) é um filme de super-herói estadunidense de 2015, baseado em Vingadores da Marvel Comics."
+      },
+      {
+         "id":96,
+         "titulo":"Avengers: Infinity War",
+         "ano":2018,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/9/90/Avengers_Infinity_War.jpg?20180316152122",
+		 "sinopse": "The Avengers (Os Vingadores) é um filme de super-herói estadunidense de 2018, baseado em Vingadores da Marvel Comics."
+      },
+      {
+         "id":78,
+         "titulo":"Avengers: Endgame",
+         "ano":2019,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/9/9b/Avengers_Endgame.jpg?20190317150357",
+		 "sinopse": "The Avengers (Os Vingadores) é um filme de super-herói estadunidense de 2019, baseado em Vingadores da Marvel Comics."
+      },
+      {
+         "id":36,
+         "titulo":"Wonder Woman",
+         "ano":2017,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/9/9f/Mulher_Maravilha_2009.jpg?20171230123503",
+		 "sinopse": "Wonder Woman (Mulher-Maravilha) é um filme americano de super-herói de 2017, baseado na personagem da DC Comics e distribuído pela Warner Bros."
+      },
+      {
+         "id":39,
+         "titulo":"Doctor Strange",
+         "ano":2016,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/c/c7/Doctor_Strange_poster.jpg",
+		 "sinopse": "Doctor Strange (Doutor Estranho) é um filme de super-herói estadunidense de 2016, baseado no personagem da Marvel Comics, produzido pela Marvel Studios."
+      },
+      {
+         "id":80,
+         "titulo":"Guardians of the Galaxy",
+         "ano":2014,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/b/b2/Guardiansgalaxyposter.jpg",
+		 "sinopse": "Guardians of the Galaxy (Guardiões da Galáxia) é um filme de super-herói estadunidense de 2014 e produzido pela Marvel Studios."
+      },
+      {
+         "id":78,
+         "titulo":"Iron Man 2",
+         "ano":2010,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/9/9a/Homem_de_Ferro_2_-_Poster.jpg",
+		 "sinopse": "Iron Man 2 (Homem de Ferro 2) é um filme de super-herói estadunidense de 2010 e produzido pela Marvel Studios."
+      },
+      {
+         "id":61,
+         "titulo":"Iron Man",
+         "ano":2008,
+         "poster":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
+		 "sinopse": "Iron Man (Homem de Ferro) é um filme de super-herói estadunidense de 2008 e produzido pela Marvel Studios."
+      }
+   ]
+}
